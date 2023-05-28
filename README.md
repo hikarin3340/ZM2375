@@ -5,11 +5,7 @@
 umeda_lab Nishiwaki_Hikari
 
 # つかいかたusage 
-exeファイルをダブルクリックする。
-
-```
-dist > zm2375_analytics > zm2375_analytics.exe 
-```
+`zm2375_analytics.exe`をダブルクリックする。
 
 ![image](https://github.com/hikarin3340/ZM2375/assets/66413459/1bcc5891-5cd1-4636-a653-58019ab069cc)
 

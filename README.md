@@ -1,12 +1,12 @@
 # ZM2375
 
 2023-05-28(sun)
+
 umeda_lab Nishiwaki_Hikari
 
 # つかいかたusage 
 exeファイルをダブルクリックする。
 
-DoubleClick the exe file.
 ```
 dist > zm2375_analytics > zm2375_analytics.exe 
 ```
@@ -16,13 +16,9 @@ dist > zm2375_analytics > zm2375_analytics.exe
 
 2このxlsxファイル ( (Zθ 的なやつ).xlsx と (GB 的なやつ).xlsx ) をえらぶ。
 
-**Select two xlsx files** ( (Zθ file).xlsx and (GB file).xlsx ) .
-
-<br>
 
 そうすると、
 
-then,
 
 ```
 ['C:\\Users\\hikar\\Documents\\python_project\\gb.xlsx', 'C:\\Users\\hikar\\Documents\\python_project\\z.xlsx']
@@ -42,7 +38,6 @@ Cd       1008   pF
 
 と表示される。
 
-is displayed. 
 
 <br>
 てきとうにつかってください～～
